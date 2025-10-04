@@ -1,0 +1,11 @@
+[project]
+name = "host"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "flask>=3.1.1",
+    "langchain>=0.3.27",
+    "numpy>=2.3.2",
+]
